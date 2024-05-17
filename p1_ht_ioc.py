@@ -19,7 +19,7 @@ country_heights_pivot = country_heights.pivot("player1_ioc", "player1_ht", "play
 
 plt.figure(figsize=(12, 8))  # Set the figure size as needed
 heatmap = sns.heatmap(country_heights_pivot, annot=True, cmap='coolwarm', fmt=".1f")
-heatmap.set_title('Average Player Heights by Country')
+heatmap.set_title('Average Player1 Heights by Country')
 plt.xlabel('Average Height')
 plt.ylabel('Country')
 plt.show()
