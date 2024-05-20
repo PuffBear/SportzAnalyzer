@@ -1,0 +1,340 @@
+name,opponent_name,winner,1st_Serve,1st_Serve_won,2nd_Serve_won,1st_Serve_Return_won,2nd_Serve_Return_won,Return_points_won
+Casper Ruud,Yoshihito Nishioka,TRUE,87.20%,85.30%,60.00%,44.40%,66.70%,53.30%
+Alexander Zverev,Grigor Dimitrov,TRUE,86.40%,77.20%,66.70%,30.60%,44.00%,35.10%
+Jannik Sinner,Lorenzo Sonego,TRUE,82.80%,72.90%,60.00%,39.00%,52.20%,43.80%
+Ben Shelton,Aslan Karatsev,TRUE,80.00%,80.00%,70.00%,38.90%,51.90%,44.40%
+Borna Gojo,Aslan Karatsev,TRUE,79.20%,81.60%,60.00%,29.60%,60.70%,45.50%
+Matteo Berrettini,Gregoire Barrere,TRUE,79.10%,85.30%,55.60%,44.40%,47.10%,45.90%
+Thiago Agustin Tirante,Gonzalo Lama,TRUE,78.60%,72.70%,83.30%,34.10%,54.50%,43.20%
+Dalibor Svrcina,Zhe Li,TRUE,78.40%,75.00%,63.60%,32.00%,50.00%,41.50%
+Alexander Zverev,Carlos Alcaraz Garfia,TRUE,77.30%,78.70%,50.00%,26.60%,46.40%,32.60%
+Roberto Carballes Baena,Giovanni Mpetshi Perricard,FALSE,77.10%,77.80%,75.00%,28.80%,54.30%,37.60%
+Hubert Hurkacz,Stefanos Tsitsipas,TRUE,76.90%,85.00%,66.70%,22.20%,45.00%,31.90%
+Alexander Zverev,Diego Sebastian Schwartzman,TRUE,76.70%,71.20%,50.00%,34.40%,60.00%,41.90%
+Marc Polmans,Dane Sweeny,TRUE,76.60%,83.30%,45.50%,37.50%,63.00%,51.00%
+Jiri Lehecka,Hamad Medjedovic,FALSE,76.00%,71.10%,50.00%,28.60%,43.50%,33.30%
+Botic Van De Zandschulp,Christopher Oconnell,TRUE,75.90%,76.20%,65.00%,26.60%,69.70%,41.20%
+Sebastian Baez,Laslo Djere,TRUE,75.90%,70.50%,50.00%,40.70%,68.40%,52.20%
+Ben Shelton,Jaume Munar,TRUE,75.80%,78.70%,53.30%,32.40%,45.50%,37.30%
+Alexander Zverev,Ugo Humbert,TRUE,75.80%,70.00%,53.10%,22.80%,54.80%,33.90%
+Carlos Alcaraz Garfia,Gregoire Barrere,TRUE,75.80%,70.00%,50.00%,38.10%,54.10%,45.60%
+Hamad Medjedovic,Laslo Djere,TRUE,75.80%,84.00%,50.00%,23.80%,61.50%,38.20%
+Daniil Medvedev,Arthur Fils,TRUE,75.60%,90.30%,80.00%,32.60%,70.00%,44.40%
+Zhizhen Zhang,Brandon Nakashima,TRUE,75.40%,80.40%,60.00%,26.30%,50.00%,33.90%
+Hubert Hurkacz,Roberto Bautista Agut,TRUE,74.50%,81.60%,53.80%,28.60%,60.00%,41.70%
+Jordan Thompson,Christopher Eubanks,TRUE,74.40%,86.20%,80.00%,36.40%,68.20%,49.10%
+Tomas Machac,Aleksandar Vukic,TRUE,74.40%,86.20%,80.00%,38.70%,60.00%,47.10%
+Ugo Humbert,Jeffrey John Wolf,TRUE,74.30%,92.30%,88.90%,45.50%,73.70%,58.50%
+Hubert Hurkacz,Yu Hsiou Hsu,TRUE,74.20%,71.70%,62.50%,37.00%,50.00%,40.50%
+Borna Gojo,Tommy Paul,TRUE,74.10%,76.70%,66.70%,35.90%,44.00%,39.10%
+Alexander Zverev,Marton Fucsovics,TRUE,74.10%,70.00%,71.40%,28.60%,44.70%,34.70%
+Sebastian Korda,Tomas Martin Etcheverry,TRUE,74.00%,78.40%,69.20%,30.30%,63.00%,45.00%
+Alexander Zverev,Tallon Griekspoor,TRUE,73.80%,81.30%,70.60%,25.60%,42.50%,34.20%
+Tallon Griekspoor,Gael Monfils,TRUE,73.80%,75.00%,58.80%,25.50%,53.10%,36.10%
+Mate Valkusz,Daniel Altmaier,TRUE,73.80%,74.20%,54.50%,46.20%,66.70%,53.30%
+Andrey Rublev,Grigor Dimitrov,TRUE,73.70%,71.40%,50.00%,37.20%,50.00%,42.30%
+Ben Shelton,Jannik Sinner,TRUE,73.30%,73.00%,48.10%,31.00%,46.20%,35.10%
+Adrian Mannarino,Pavel Kotov,TRUE,73.20%,75.60%,80.00%,37.20%,42.90%,38.60%
+Carlos Alcaraz Garfia,Daniil Medvedev,TRUE,73.20%,75.60%,66.70%,26.30%,55.60%,35.70%
+Ugo Humbert,Harold Mayot,TRUE,73.20%,80.50%,80.00%,32.60%,44.00%,36.80%
+Jannik Sinner,Ben Shelton,FALSE,73.20%,69.00%,53.80%,27.00%,51.90%,33.70%
+Pierre Hugues Herbert,Luca Van Assche,TRUE,73.20%,80.30%,46.20%,30.40%,50.00%,37.00%
+Jack Draper,Nuno Borges,TRUE,73.00%,96.30%,60.00%,33.30%,81.80%,46.30%
+Adrian Mannarino,Albert Ramos,TRUE,72.90%,80.00%,53.80%,42.30%,55.60%,46.80%
+Grigor Dimitrov,Aleksandar Vukic,TRUE,72.90%,85.70%,53.80%,36.20%,50.00%,41.60%
+Jack Draper,Maximilian Marterer,TRUE,72.50%,86.20%,63.60%,42.90%,55.00%,47.30%
+Karen Khachanov,Jiri Lehecka,TRUE,72.50%,86.20%,72.70%,44.70%,61.10%,50.00%
+Roberto Bautista Agut,Jiri Lehecka,TRUE,72.50%,82.80%,72.70%,41.70%,60.00%,49.20%
+Aleksandar Vukic,Borna Coric,TRUE,72.30%,85.30%,61.50%,23.30%,68.00%,43.60%
+Alexander Zverev,Adrian Mannarino,TRUE,72.30%,85.30%,53.80%,42.30%,44.80%,43.60%
+Carlos Alcaraz Garfia,Andrey Rublev,TRUE,72.30%,94.10%,61.50%,37.80%,50.00%,41.00%
+Dominik Koepfer,Marcelo Tomas Barrios Vera,TRUE,72.30%,82.40%,69.20%,31.10%,63.00%,43.10%
+Sebastian Baez,Dane Sweeny,TRUE,72.30%,76.50%,84.60%,34.40%,50.00%,39.10%
+Diego Sebastian Schwartzman,Jiri Lehecka,TRUE,72.30%,71.70%,52.20%,35.90%,55.60%,44.00%
+Nicolas Jarry,Matteo Arnaldi,TRUE,72.20%,73.10%,50.00%,29.40%,48.80%,36.90%
+Grigor Dimitrov,Carlos Alcaraz Garfia,TRUE,72.10%,72.60%,54.20%,28.30%,44.00%,33.30%
+Alexander Shevchenko,Mathias Bourgue,TRUE,71.90%,73.20%,75.00%,30.80%,59.30%,40.50%
+Daniil Medvedev,Alexander Zverev,TRUE,71.90%,80.50%,68.80%,28.90%,53.80%,35.30%
+Miomir Kecmanovic,Corentin Moutet,TRUE,71.70%,72.70%,69.20%,45.90%,60.70%,52.30%
+Giovanni Mpetshi Perricard,David Goffin,TRUE,71.70%,86.80%,73.30%,26.50%,43.50%,33.30%
+Gregoire Barrere,Nuno Borges,TRUE,71.70%,73.70%,66.70%,37.00%,62.50%,46.50%
+Hamad Medjedovic,Alexander Shevchenko,TRUE,71.70%,84.20%,60.00%,33.30%,42.10%,36.10%
+Dusan Lajovic,Jannik Sinner,TRUE,71.60%,75.90%,52.20%,26.80%,43.60%,35.00%
+Dominic Thiem,Matteo Martineau,TRUE,71.40%,80.00%,64.30%,31.60%,57.10%,40.70%
+Mackenzie Mcdonald,Francisco Cerundolo,FALSE,71.40%,72.30%,46.20%,23.60%,58.30%,37.40%
+Dominik Koepfer,Daniel Evans,TRUE,71.30%,71.60%,48.10%,25.80%,58.30%,37.30%
+Alexander Zverev,Andrey Rublev,TRUE,71.20%,70.20%,57.90%,30.40%,63.60%,41.20%
+Mackenzie Mcdonald,Milos Raonic,TRUE,71.20%,81.10%,66.70%,22.90%,70.00%,40.00%
+Yoshihito Nishioka,Jan Lennard Struff,TRUE,71.00%,84.10%,55.60%,24.30%,63.60%,39.00%
+Maximilian Marterer,Hugo Gaston,TRUE,70.80%,91.20%,57.10%,25.90%,64.70%,40.90%
+Fabian Marozsan,Casper Ruud,TRUE,70.80%,72.50%,45.50%,26.80%,58.50%,37.40%
+Zhizhen Zhang,Tomas Martin Etcheverry,TRUE,70.80%,74.60%,53.80%,25.50%,42.30%,31.20%
+Tallon Griekspoor,Alex De Minaur,TRUE,70.70%,75.60%,58.80%,34.90%,52.40%,40.60%
+Jiri Lehecka,Jeffrey John Wolf,TRUE,70.60%,72.20%,80.00%,27.80%,60.00%,42.40%
+Jannik Sinner,Marcos Giron,TRUE,70.50%,79.10%,55.60%,29.50%,70.60%,47.40%
+Felix Auger Aliassime,Botic Van De Zandschulp,TRUE,70.40%,76.30%,50.00%,35.50%,56.50%,44.40%
+Jiri Lehecka,Egor Gerasimov,TRUE,70.30%,80.00%,63.20%,31.60%,50.00%,38.70%
+John Isner,Rinky Hijikata,TRUE,70.30%,75.60%,57.90%,37.00%,54.50%,44.30%
+Pavel Kotov,Tallon Griekspoor,TRUE,70.30%,69.20%,59.10%,28.20%,54.20%,38.10%
+Marton Fucsovics,Francisco Cerundolo,FALSE,70.20%,71.20%,52.00%,22.70%,66.70%,35.50%
+Hubert Hurkacz,Zhizhen Zhang,TRUE,70.20%,87.90%,50.00%,29.50%,45.00%,34.70%
+Yibing Wu,Corentin Moutet,TRUE,70.20%,85.00%,47.10%,38.30%,47.10%,40.60%
+Felix Auger Aliassime,Jan Lennard Struff,TRUE,70.10%,87.20%,50.00%,30.80%,46.90%,36.90%
+Mackenzie Mcdonald,Juncheng Shang,TRUE,70.00%,81.00%,48.10%,22.60%,53.50%,36.50%
+Roberto Bautista Agut,Miomir Kecmanovic,TRUE,70.00%,70.20%,61.10%,23.30%,57.10%,35.60%
+Stefanos Tsitsipas,Yannick Hanfmann,TRUE,70.00%,80.00%,66.70%,35.30%,46.70%,38.80%
+Hubert Hurkacz,Dusan Lajovic,TRUE,69.90%,80.40%,45.50%,35.40%,44.40%,37.90%
+Thanasi Kokkinakis,Fabio Fognini,TRUE,69.80%,83.80%,50.00%,33.30%,53.30%,38.90%
+Arthur Fils,Juan Pablo Varillas Patino Samudio,TRUE,69.80%,80.00%,76.90%,31.80%,68.80%,47.40%
+Stefanos Tsitsipas,Borna Coric,TRUE,69.80%,86.70%,76.90%,37.00%,66.70%,47.60%
+Zhizhen Zhang,Richard Gasquet,TRUE,69.70%,95.70%,60.00%,55.30%,58.80%,56.40%
+Hubert Hurkacz,Alexei Popyrin,TRUE,69.60%,92.30%,64.70%,22.90%,44.40%,32.30%
+Novak Djokovic,Jannik Sinner,TRUE,69.60%,90.60%,64.30%,42.90%,52.00%,45.90%
+Dusan Lajovic,Stan Wawrinka,TRUE,69.40%,72.00%,50.00%,23.90%,65.50%,40.00%
+Daniel Altmaier,Arthur Fils,TRUE,69.40%,82.40%,53.30%,30.60%,76.20%,47.40%
+Fabian Marozsan,Alex De Minaur,TRUE,69.20%,73.30%,60.00%,28.60%,59.30%,41.90%
+Andrey Rublev,Quentin Halys,TRUE,69.10%,92.10%,52.90%,22.00%,62.50%,36.90%
+Carlos Alcaraz Garfia,Casper Ruud,TRUE,69.10%,71.10%,64.70%,38.00%,70.40%,49.40%
+Jannik Sinner,Frances Tiafoe,TRUE,69.10%,84.20%,70.60%,35.50%,44.00%,39.30%
+Grigor Dimitrov,Hubert Hurkacz,TRUE,69.00%,81.60%,63.60%,23.90%,53.60%,35.10%
+Gregoire Barrere,Daniel Elahi Galan Riveros,TRUE,68.90%,81.00%,68.40%,26.30%,52.40%,35.60%
+Brandon Nakashima,Bernabe Zapata Miralles,TRUE,68.50%,94.60%,52.90%,25.80%,59.10%,39.60%
+Dusan Lajovic,Tallon Griekspoor,TRUE,68.40%,84.60%,58.30%,28.10%,62.50%,42.90%
+Roman Safiullin,Thiago Seyboth Wild,TRUE,68.30%,78.00%,57.90%,44.80%,47.10%,45.70%
+Mackenzie Mcdonald,Corentin Moutet,TRUE,68.30%,79.10%,50.00%,43.90%,50.00%,45.10%
+Dominic Thiem,Yannick Hanfmann,FALSE,68.10%,74.20%,55.20%,29.60%,58.30%,38.50%
+Hubert Hurkacz,Jan Lennard Struff,TRUE,68.10%,75.00%,60.00%,41.00%,61.50%,49.20%
+Nicolas Jarry,Terence Atmane,TRUE,68.10%,93.80%,73.30%,36.60%,47.10%,39.70%
+Stefanos Tsitsipas,John Isner,TRUE,68.10%,87.50%,60.00%,34.20%,65.20%,45.90%
+Hamad Medjedovic,Jiri Lehecka,TRUE,68.10%,71.40%,56.50%,28.90%,50.00%,34.00%
+Jannik Sinner,Daniil Medvedev,TRUE,68.00%,82.40%,70.80%,24.60%,47.60%,30.80%
+Lorenzo Musetti,Daniel Evans,TRUE,68.00%,76.50%,68.80%,33.30%,53.60%,43.60%
+Carlos Alcaraz Garfia,Grigor Dimitrov,FALSE,67.90%,71.70%,56.00%,27.40%,45.80%,32.60%
+Karen Khachanov,Constant Lestienne,TRUE,67.80%,72.50%,68.40%,38.10%,46.20%,41.20%
+Ugo Humbert,Yosuke Watanuki,TRUE,67.60%,80.00%,66.70%,44.40%,66.70%,55.60%
+Christopher Eubanks,Andres Martin,TRUE,67.40%,89.70%,78.60%,36.40%,55.00%,42.20%
+Tallon Griekspoor,Liam Broady,TRUE,67.40%,89.70%,71.40%,29.40%,57.50%,44.60%
+Casper Ruud,Christopher Eubanks,TRUE,67.40%,83.90%,73.30%,40.00%,45.00%,41.80%
+Jeffrey John Wolf,Dominik Koepfer,TRUE,67.40%,77.40%,60.00%,34.50%,75.00%,48.90%
+Novak Djokovic,Carlos Alcaraz Garfia,TRUE,67.30%,81.10%,55.60%,38.30%,66.70%,42.90%
+Dino Prizmic,Jiri Lehecka,TRUE,67.20%,82.90%,50.00%,34.80%,54.20%,41.40%
+Juncheng Shang,Ben Shelton,TRUE,67.20%,72.10%,66.70%,31.10%,53.80%,39.40%
+Pierre Hugues Herbert,Gijs Brouwer,TRUE,67.20%,73.30%,54.50%,27.90%,60.00%,41.10%
+Grigor Dimitrov,Karen Khachanov,TRUE,67.10%,85.10%,52.20%,22.40%,53.80%,33.30%
+Borna Gojo,Stefanos Tsitsipas,FALSE,67.10%,72.50%,52.00%,21.60%,45.50%,31.00%
+Dominic Stephan Stricker,Casper Ruud,TRUE,67.10%,81.80%,63.00%,32.10%,47.70%,37.70%
+Marcos Giron,Ben Shelton,FALSE,67.00%,77.50%,48.60%,33.00%,48.40%,37.00%
+Novak Djokovic,Andrey Rublev,TRUE,66.90%,73.40%,59.00%,27.30%,42.90%,32.10%
+Alexander Shevchenko,Mate Valkusz,TRUE,66.70%,85.40%,50.00%,30.80%,56.30%,40.50%
+Alexander Zverev,Grigor Dimitrov,TRUE,66.70%,71.90%,68.80%,22.20%,75.00%,49.10%
+Andrey Rublev,Adrian Mannarino,TRUE,66.70%,79.40%,52.90%,50.00%,60.00%,52.50%
+Ben Shelton,Taro Daniel,TRUE,66.70%,73.30%,53.30%,28.60%,43.60%,34.70%
+Christopher Eubanks,Sho Shimabukuro,TRUE,66.70%,77.50%,55.00%,35.70%,42.10%,38.30%
+Dusan Lajovic,Benjamin Bonzi,TRUE,66.70%,72.90%,45.80%,33.30%,62.10%,46.20%
+Jiri Lehecka,Max Purcell,TRUE,66.70%,84.10%,50.00%,24.30%,46.90%,34.80%
+Karen Khachanov,Roman Safiullin,TRUE,66.70%,72.70%,59.10%,22.50%,54.50%,33.90%
+Lloyd George Muirhead Harris,Jiri Vesely,TRUE,66.70%,92.90%,71.40%,25.90%,60.00%,40.40%
+Lorenzo Sonego,Abedallah Shelbayh,TRUE,66.70%,80.00%,70.00%,25.60%,59.30%,38.60%
+Michael Mmoh,Bradley Klahn,TRUE,66.70%,82.40%,64.70%,33.30%,68.40%,44.30%
+Novak Djokovic,Grigor Dimitrov,TRUE,66.70%,81.30%,68.80%,28.60%,57.60%,42.60%
+Pierre Hugues Herbert,Arthur Cazaux,TRUE,66.70%,78.80%,53.80%,25.40%,52.00%,33.30%
+Taylor Harry Fritz,Max Purcell,TRUE,66.70%,70.70%,58.60%,25.00%,61.50%,39.40%
+Taylor Harry Fritz,Jeffrey John Wolf,TRUE,66.70%,83.30%,57.10%,26.50%,50.00%,36.20%
+Yu Hsiou Hsu,Lorenzo Musetti,TRUE,66.70%,83.30%,66.70%,34.80%,66.70%,45.70%
+Frances Tiafoe,Gael Monfils,TRUE,66.30%,75.40%,61.30%,25.00%,59.50%,41.10%
+Pavel Kotov,Marton Fucsovics,TRUE,66.20%,70.60%,57.70%,38.90%,44.10%,41.40%
+Tomas Martin Etcheverry,Zhizhen Zhang,FALSE,66.20%,74.50%,57.70%,25.40%,46.20%,31.50%
+Andy Murray,Ye Cong Mo,TRUE,66.20%,79.60%,56.00%,27.80%,57.10%,38.60%
+Sebastian Korda,Francisco Cerundolo,TRUE,66.20%,81.60%,60.00%,21.60%,58.80%,30.90%
+Yannick Hanfmann,Alexander Blockx,TRUE,66.20%,74.50%,66.70%,22.90%,52.40%,31.90%
+Hubert Hurkacz,Alexander Bublik,TRUE,66.10%,75.60%,52.40%,33.30%,57.60%,44.40%
+Maximilian Marterer,Nuno Borges,TRUE,66.10%,89.70%,55.00%,24.50%,80.00%,37.50%
+Constant Lestienne,Calvin Hemery,TRUE,66.10%,81.10%,47.40%,40.00%,52.90%,45.20%
+Marcos Giron,Yoshihito Nishioka,TRUE,66.10%,80.60%,54.10%,28.40%,46.80%,36.00%
+Carlos Alcaraz Garfia,Hubert Hurkacz,TRUE,65.90%,68.30%,64.50%,26.50%,48.70%,34.60%
+Daniil Medvedev,Ugo Humbert,TRUE,65.90%,68.50%,46.40%,44.40%,52.80%,48.10%
+Christian Garin,Aleksandar Kovacevic,TRUE,65.80%,74.00%,61.50%,32.10%,43.50%,35.50%
+Laslo Djere,Jeffrey John Wolf,TRUE,65.70%,71.70%,54.20%,27.60%,53.30%,40.70%
+Beibit Zhukayev,Stefano Napolitano,TRUE,65.70%,81.80%,65.20%,32.80%,45.20%,37.10%
+Thiago Seyboth Wild,Tallon Griekspoor,FALSE,65.60%,80.30%,46.90%,22.40%,50.00%,30.50%
+Mackenzie Mcdonald,Holger Vitus Nodskov Rune,TRUE,65.50%,94.70%,60.00%,32.10%,66.70%,42.50%
+Roman Safiullin,Daniel Evans,TRUE,65.50%,71.10%,55.00%,28.60%,63.60%,44.00%
+Alexander Bublik,Frances Tiafoe,TRUE,65.40%,88.20%,55.60%,27.60%,50.00%,38.20%
+Jurij Rodionov,Sebastian Baez,TRUE,65.40%,76.50%,61.10%,47.60%,58.30%,49.30%
+Borna Gojo,Christian Garin,TRUE,65.30%,81.30%,47.10%,21.80%,60.90%,33.30%
+Stefanos Tsitsipas,Rinky Hijikata,TRUE,65.30%,81.30%,52.90%,37.90%,60.70%,49.10%
+Karen Khachanov,Alex Bolt,TRUE,65.30%,74.50%,56.00%,25.70%,50.00%,36.90%
+Taylor Harry Fritz,Yibing Wu,TRUE,65.30%,80.90%,56.00%,29.20%,54.80%,39.20%
+Luca Van Assche,Botic Van De Zandschulp,TRUE,65.30%,75.80%,57.60%,23.90%,52.60%,33.90%
+Sebastian Korda,Tomas Martin Etcheverry,TRUE,65.20%,76.70%,75.00%,41.90%,68.40%,52.00%
+Fabian Marozsan,Roberto Bautista Agut,TRUE,65.20%,72.40%,54.80%,30.60%,56.40%,39.60%
+Gijs Brouwer,Nicolas Jarry,FALSE,65.20%,87.90%,54.80%,21.90%,43.20%,30.60%
+Tallon Griekspoor,Sho Shimabukuro,TRUE,65.20%,86.20%,54.80%,24.60%,52.00%,37.40%
+Botic Van De Zandschulp,Luca Van Assche,FALSE,65.10%,76.10%,47.40%,24.20%,42.40%,30.50%
+Carlos Alcaraz Garfia,Tommy Paul,TRUE,65.00%,71.60%,47.20%,38.40%,56.60%,44.70%
+Jan Lennard Struff,Hugo Gaston,FALSE,65.00%,76.90%,45.20%,31.10%,50.00%,38.40%
+Karen Khachanov,Laslo Djere,TRUE,65.00%,76.90%,66.70%,30.00%,56.10%,41.80%
+Novak Djokovic,Taylor Harry Fritz,TRUE,65.00%,80.80%,64.30%,31.80%,72.70%,52.30%
+Grigor Dimitrov,Mackenzie Mcdonald,TRUE,64.90%,86.50%,60.00%,32.60%,47.40%,37.10%
+David Goffin,Quentin Halys,TRUE,64.90%,91.70%,61.50%,39.50%,77.80%,51.80%
+Stefanos Tsitsipas,Alexander Zverev,TRUE,64.80%,78.30%,52.00%,32.80%,57.90%,39.00%
+Ugo Humbert,Marcos Giron,TRUE,64.70%,90.90%,66.70%,33.30%,44.40%,38.30%
+Sebastian Ofner,Dominic Thiem,TRUE,64.60%,84.90%,55.20%,32.40%,51.40%,38.90%
+Alex De Minaur,Diego Sebastian Schwartzman,TRUE,64.60%,71.00%,70.60%,41.70%,75.00%,51.50%
+Ben Shelton,Jordan Thompson,TRUE,64.60%,80.60%,55.90%,29.20%,56.30%,40.00%
+Emil Ruusuvuori,Benjamin Hassan,TRUE,64.60%,77.40%,64.70%,41.20%,68.40%,55.60%
+Sebastian Baez,Borna Coric,TRUE,64.60%,71.00%,58.80%,36.80%,51.00%,42.70%
+Ugo Humbert,Alexander Shevchenko,TRUE,64.40%,86.20%,75.00%,26.50%,57.10%,38.20%
+Lorenzo Sonego,Philip Sekulic,TRUE,64.40%,81.60%,52.40%,38.90%,60.00%,45.10%
+Frances Tiafoe,Aslan Karatsev,TRUE,64.40%,75.00%,64.50%,22.90%,42.50%,31.80%
+Gael Monfils,Francisco Cerundolo,FALSE,64.30%,69.80%,48.60%,41.20%,42.90%,41.70%
+Juncheng Shang,Ben Shelton,TRUE,64.30%,83.30%,60.00%,31.10%,53.30%,40.00%
+Nicolas Jarry,Diego Sebastian Schwartzman,TRUE,64.20%,78.80%,69.00%,37.10%,42.30%,38.50%
+Taylor Harry Fritz,Cameron Norrie,TRUE,64.20%,79.40%,68.40%,40.90%,60.00%,46.90%
+Yoshihito Nishioka,Aleksandar Vukic,FALSE,64.20%,69.10%,63.20%,23.80%,47.70%,33.60%
+Andrey Rublev,Botic Van De Zandschulp,TRUE,64.00%,87.50%,55.60%,30.60%,64.30%,40.00%
+Casper Ruud,Jan Lennard Struff,TRUE,64.00%,72.90%,55.60%,36.40%,45.00%,40.50%
+Sho Shimabukuro,Christian Garin,FALSE,64.00%,68.80%,50.00%,22.90%,42.90%,31.30%
+Grigor Dimitrov,Lorenzo Musetti,TRUE,64.00%,81.80%,54.80%,40.00%,45.50%,41.80%
+Daniel Elahi Galan Riveros,Radu Albot,TRUE,63.90%,71.80%,45.50%,44.70%,62.50%,51.60%
+Sebastian Korda,Benjamin Bonzi,TRUE,63.90%,82.10%,45.50%,30.30%,77.80%,47.10%
+Tallon Griekspoor,Novak Djokovic,FALSE,63.90%,77.40%,45.70%,22.70%,55.00%,34.90%
+Carlos Alcaraz Garfia,Yannick Hanfmann,TRUE,63.80%,80.00%,47.10%,38.00%,65.50%,48.10%
+Jordan Thompson,Dusan Lajovic,TRUE,63.80%,86.70%,82.40%,41.20%,55.60%,44.90%
+Daniel Evans,Frances Tiafoe,TRUE,63.80%,75.70%,76.20%,28.60%,51.90%,36.80%
+Laslo Djere,Alex Michelsen,TRUE,63.80%,75.70%,61.90%,31.60%,51.50%,40.80%
+Alexander Shevchenko,Felix Auger Aliassime,FALSE,63.60%,71.40%,63.90%,25.80%,51.20%,35.80%
+Borna Coric,Jason Jung,TRUE,63.60%,78.60%,68.80%,48.00%,62.50%,53.70%
+Cameron Norrie,Marc Polmans,TRUE,63.60%,78.60%,68.80%,46.70%,62.50%,52.20%
+Gael Monfils,Laslo Djere,TRUE,63.60%,82.90%,55.00%,48.80%,62.50%,52.50%
+Rinky Hijikata,Laslo Djere,TRUE,63.50%,78.70%,45.70%,29.60%,46.90%,36.00%
+Stefanos Tsitsipas,Nicolas Jarry,TRUE,63.50%,80.30%,65.70%,31.00%,43.80%,35.00%
+Jack Draper,Cem Ilkel,TRUE,63.40%,88.50%,66.70%,52.90%,47.60%,50.90%
+Alexandre Muller,Roman Safiullin,FALSE,63.40%,68.90%,46.20%,25.00%,50.00%,34.20%
+Ugo Humbert,Dominic Thiem,TRUE,63.30%,84.20%,51.50%,27.10%,47.70%,35.90%
+Fabian Marozsan,Dusan Lajovic,TRUE,63.30%,77.40%,55.60%,44.70%,63.20%,50.00%
+Mackenzie Mcdonald,Diego Sebastian Schwartzman,TRUE,63.30%,83.90%,61.10%,38.60%,52.60%,42.90%
+Aslan Karatsev,Matteo Arnaldi,TRUE,63.20%,83.30%,57.10%,33.30%,50.00%,39.70%
+Matteo Arnaldi,Albert Ramos,TRUE,63.20%,71.70%,48.60%,26.00%,58.10%,38.30%
+Roman Safiullin,Alexandre Muller,TRUE,63.20%,75.00%,50.00%,31.10%,53.80%,39.40%
+Ugo Humbert,Marcos Giron,TRUE,63.20%,78.30%,62.90%,23.10%,50.00%,30.80%
+Ugo Humbert,Fabio Fognini,TRUE,63.20%,87.50%,64.30%,48.70%,76.50%,57.10%
+Carlos Alcaraz Garfia,Daniel Evans,TRUE,63.10%,70.70%,66.70%,33.90%,60.40%,45.80%
+Matteo Arnaldi,Jan Lennard Struff,TRUE,63.00%,70.70%,55.90%,30.80%,56.30%,40.50%
+Taylor Harry Fritz,Kei Nishikori,TRUE,63.00%,86.20%,76.50%,31.60%,55.00%,39.70%
+Daniil Medvedev,Karen Khachanov,TRUE,62.90%,80.40%,48.50%,22.00%,63.30%,36.00%
+Alex De Minaur,Thiago Agustin Tirante,TRUE,62.90%,86.40%,69.20%,46.40%,63.60%,54.00%
+Alexander Zverev,Yoshihito Nishioka,TRUE,62.80%,71.40%,55.20%,34.10%,48.60%,40.50%
+Harold Mayot,Gregoire Barrere,TRUE,62.80%,68.40%,57.80%,26.80%,55.30%,35.80%
+Jordan Thompson,Kevin Anderson,TRUE,62.80%,79.60%,56.30%,26.70%,60.00%,38.90%
+Gael Monfils,Pavel Kotov,TRUE,62.80%,76.30%,48.60%,31.90%,54.50%,39.00%
+Andrey Rublev,Ugo Humbert,TRUE,62.70%,71.90%,63.20%,47.50%,54.80%,50.70%
+Tallon Griekspoor,Alejandro Davidovich Fokina,TRUE,62.70%,84.40%,47.40%,40.00%,60.00%,47.30%
+Laslo Djere,Leo Borg,TRUE,62.70%,70.30%,54.50%,26.30%,81.00%,45.80%
+Nicolas Jarry,Alexei Popyrin,TRUE,62.70%,88.10%,64.00%,27.90%,51.40%,36.50%
+Borna Coric,Rinky Hijikata,TRUE,62.70%,80.90%,46.40%,37.10%,48.50%,42.60%
+Felix Auger Aliassime,Aleksandar Vukic,TRUE,62.60%,72.60%,54.10%,33.70%,60.00%,43.40%
+Lorenzo Sonego,Dusan Lajovic,TRUE,62.60%,71.00%,64.90%,30.20%,42.10%,32.90%
+Alexander Zverev,Pavel Kotov,TRUE,62.50%,86.00%,56.70%,27.30%,52.80%,36.30%
+Marc Andrea Huesler,Richard Gasquet,FALSE,62.50%,72.50%,45.80%,25.00%,43.20%,33.80%
+Thanasi Kokkinakis,Ugo Humbert,FALSE,62.50%,78.30%,52.80%,25.80%,62.80%,40.40%
+Alexei Popyrin,Christian Garin,TRUE,62.40%,75.00%,51.20%,34.80%,47.90%,40.20%
+Ugo Humbert,Taylor Harry Fritz,FALSE,62.40%,77.60%,48.60%,23.30%,52.10%,36.10%
+Andrey Rublev,Alexei Popyrin,TRUE,62.30%,68.80%,51.70%,32.60%,54.50%,40.00%
+Mackenzie Mcdonald,Kimmer Coppejans,TRUE,62.30%,79.20%,55.20%,32.60%,54.80%,43.20%
+Aslan Karatsev,Alex De Minaur,TRUE,62.30%,72.10%,53.80%,33.30%,50.00%,39.60%
+Laslo Djere,Luca Van Assche,TRUE,62.30%,70.40%,55.80%,30.50%,47.50%,37.40%
+Stefanos Tsitsipas,Karen Khachanov,TRUE,62.30%,78.80%,50.00%,26.70%,65.00%,42.00%
+Marcos Giron,Felix Auger Aliassime,TRUE,62.20%,71.40%,58.80%,32.10%,69.20%,50.00%
+Nicolas Jarry,Rodrigo Pacheco Mendez,TRUE,62.20%,85.70%,52.90%,44.10%,46.70%,44.90%
+Andrey Rublev,Tommy Paul,TRUE,62.10%,80.60%,72.70%,38.80%,42.90%,40.30%
+Karen Khachanov,Max Purcell,TRUE,62.10%,75.00%,54.50%,22.90%,62.10%,40.60%
+Chun Hsin Tseng,Alexander Shevchenko,TRUE,62.00%,73.50%,53.30%,29.70%,48.50%,38.60%
+Juan Pablo Varillas Patino Samudio,Jie Cui,TRUE,62.00%,80.60%,52.60%,40.00%,52.90%,45.20%
+Max Purcell,Felix Auger Aliassime,TRUE,62.00%,90.30%,63.20%,22.90%,56.70%,38.50%
+Tomas Machac,Stan Wawrinka,TRUE,62.00%,83.90%,68.40%,37.00%,50.00%,41.90%
+Max Purcell,Marco Cecchinato,TRUE,61.90%,88.50%,62.50%,34.40%,61.50%,46.60%
+Taylor Harry Fritz,Alexander Shevchenko,FALSE,61.90%,91.80%,53.30%,23.00%,50.00%,32.00%
+Borna Coric,Juan Manuel Cerundolo,TRUE,61.80%,79.40%,52.40%,38.70%,77.80%,53.10%
+Daniil Medvedev,Lorenzo Musetti,TRUE,61.80%,82.40%,47.60%,27.80%,56.00%,39.30%
+Roman Safiullin,Brandon Nakashima,TRUE,61.80%,82.40%,61.90%,32.50%,44.40%,36.20%
+Gregoire Barrere,Jurij Rodionov,FALSE,61.70%,77.60%,55.60%,29.30%,42.50%,34.70%
+Alexander Shevchenko,Benjamin Bonzi,TRUE,61.70%,77.00%,50.00%,22.70%,45.70%,32.10%
+Holger Vitus Nodskov Rune,Dominic Thiem,TRUE,61.70%,81.10%,47.80%,33.30%,52.40%,40.70%
+Mackenzie Mcdonald,Andrey Rublev,TRUE,61.70%,75.70%,60.90%,29.60%,50.00%,41.80%
+Hugo Gaston,Jan Lennard Struff,TRUE,61.60%,68.90%,50.00%,23.10%,54.80%,34.20%
+Jan Lennard Struff,Christopher Eubanks,TRUE,61.60%,84.40%,57.10%,26.30%,48.00%,32.90%
+Jannik Sinner,Andrey Rublev,TRUE,61.60%,82.20%,53.60%,29.10%,59.10%,37.70%
+Miomir Kecmanovic,Holger Vitus Nodskov Rune,TRUE,61.60%,73.30%,64.30%,35.70%,48.40%,41.10%
+Brandon Nakashima,Aleksandar Vukic,TRUE,61.60%,71.70%,54.50%,37.50%,45.20%,40.80%
+Felipe Meligeni Rodrigues Alves,Tommy Paul,FALSE,61.50%,71.40%,45.70%,25.00%,51.40%,35.60%
+Holger Vitus Nodskov Rune,Felix Auger Aliassime,TRUE,61.50%,87.50%,65.00%,30.80%,47.10%,35.70%
+Novak Djokovic,Tomas Martin Etcheverry,TRUE,61.50%,81.30%,60.00%,35.00%,60.00%,40.00%
+Terence Atmane,Jordan Thompson,TRUE,61.40%,72.10%,59.30%,31.80%,58.80%,39.30%
+Miomir Kecmanovic,Karl Friberg,TRUE,61.40%,77.10%,63.60%,32.40%,63.20%,42.90%
+Roman Safiullin,Lorenzo Musetti,TRUE,61.40%,82.90%,68.20%,23.50%,60.90%,38.60%
+Maxime Cressy,Alex Michelsen,TRUE,61.40%,92.60%,64.70%,33.30%,65.00%,42.60%
+Matteo Arnaldi,Nicolas Jarry,FALSE,61.30%,70.60%,51.20%,26.90%,50.00%,33.30%
+Dominik Koepfer,James Duckworth,TRUE,61.20%,80.00%,68.40%,50.00%,50.00%,50.00%
+Sebastian Ofner,Christopher Oconnell,TRUE,61.10%,77.60%,64.90%,23.60%,53.80%,36.20%
+Holger Vitus Nodskov Rune,Sebastian Baez,TRUE,61.00%,77.80%,78.30%,32.00%,66.70%,38.70%
+Jordan Thompson,Adrian Mannarino,TRUE,61.00%,77.80%,69.60%,28.60%,56.00%,38.80%
+Cem Ilkel,Dimitar Kuzmanov,TRUE,61.00%,84.00%,56.30%,52.10%,54.50%,52.90%
+Adrian Mannarino,Nicolas Jarry,FALSE,61.00%,82.80%,48.80%,26.50%,50.00%,34.10%
+Elias Ymer,Roberto Bautista Agut,TRUE,60.90%,82.10%,77.80%,37.50%,56.00%,44.60%
+Alex Michelsen,Juan Pablo Varillas Patino Samudio,TRUE,60.80%,83.30%,54.80%,40.40%,50.00%,44.70%
+Max Purcell,Tallon Griekspoor,TRUE,60.80%,79.20%,51.60%,29.80%,52.60%,40.00%
+Stefanos Tsitsipas,Borna Gojo,TRUE,60.70%,78.40%,54.50%,27.50%,48.00%,34.20%
+Felix Auger Aliassime,Matteo Berrettini,TRUE,60.70%,83.30%,45.70%,25.50%,50.00%,35.10%
+Dominik Koepfer,Aleksandar Kovacevic,TRUE,60.70%,75.70%,54.20%,35.30%,56.80%,46.50%
+Alexei Popyrin,Daniel Altmaier,TRUE,60.60%,77.30%,51.20%,30.30%,42.60%,35.40%
+Richard Gasquet,Brandon Nakashima,TRUE,60.50%,84.80%,50.00%,24.10%,42.40%,31.00%
+Alexander Zverev,Sebastian Ofner,TRUE,60.50%,88.50%,52.90%,37.50%,60.00%,47.40%
+Marcos Giron,Daniel Elahi Galan Riveros,TRUE,60.40%,86.20%,68.40%,35.90%,50.00%,39.20%
+Adrian Mannarino,Sebastian Ofner,TRUE,60.40%,75.00%,52.40%,28.00%,66.70%,46.90%
+Sebastian Korda,Bu Yunchaokete,TRUE,60.30%,80.00%,52.20%,33.30%,58.80%,42.60%
+Adrian Mannarino,Arthur Rinderknech,TRUE,60.30%,72.30%,54.80%,33.30%,51.70%,41.20%
+Michael Mmoh,Hubert Hurkacz,TRUE,60.20%,73.50%,57.80%,32.20%,47.40%,36.70%
+Alex De Minaur,Cameron Norrie,TRUE,60.00%,73.80%,57.10%,29.50%,58.30%,39.70%
+Benjamin Bonzi,Alexandre Muller,TRUE,60.00%,77.80%,54.20%,34.90%,46.40%,39.40%
+Grigor Dimitrov,Holger Vitus Nodskov Rune,TRUE,60.00%,78.80%,59.10%,33.30%,65.40%,44.60%
+Hubert Hurkacz,Francisco Cerundolo,TRUE,60.00%,70.00%,65.00%,31.70%,73.90%,46.90%
+Lorenzo Sonego,Alexander Shevchenko,TRUE,60.00%,81.30%,46.90%,35.60%,50.00%,41.80%
+Roman Safiullin,Juan Manuel Cerundolo,FALSE,60.00%,71.20%,50.00%,25.80%,51.10%,36.40%
+Sho Shimabukuro,Lloyd George Muirhead Harris,TRUE,60.00%,90.00%,55.00%,22.20%,61.90%,39.60%
+Hubert Hurkacz,Thanasi Kokkinakis,TRUE,59.80%,82.10%,57.80%,25.90%,50.00%,36.20%
+Tommy Paul,Felipe Meligeni Rodrigues Alves,TRUE,59.80%,75.00%,48.60%,28.60%,54.30%,38.50%
+Stefanos Tsitsipas,Felix Auger Aliassime,TRUE,59.70%,73.90%,64.50%,22.00%,84.20%,39.10%
+Tallon Griekspoor,Taylor Harry Fritz,TRUE,59.70%,80.40%,54.80%,33.90%,44.00%,36.80%
+Jan Lennard Struff,Billy Harris,TRUE,59.70%,76.70%,62.10%,28.30%,56.70%,38.60%
+Taylor Harry Fritz,Zachary Svajda,TRUE,59.60%,85.30%,47.80%,38.70%,53.30%,43.50%
+Luca Van Assche,Laslo Djere,FALSE,59.60%,69.50%,52.50%,29.60%,44.20%,35.10%
+Shintaro Mochizuki,Alexei Popyrin,TRUE,59.60%,69.50%,47.50%,23.90%,63.00%,34.70%
+Yoshihito Nishioka,Juncheng Shang,TRUE,59.60%,69.80%,55.60%,46.30%,44.80%,45.80%
+Casper Ruud,Jiri Lehecka,TRUE,59.40%,82.90%,60.70%,21.60%,65.40%,36.40%
+Stan Wawrinka,Borna Gojo,TRUE,59.40%,73.20%,64.30%,26.80%,50.00%,35.80%
+Maximilian Marterer,Richard Gasquet,TRUE,59.30%,77.10%,66.70%,25.00%,45.00%,32.70%
+Roman Safiullin,Carlos Alcaraz Garfia,TRUE,59.30%,71.40%,50.00%,31.40%,63.20%,42.60%
+Aslan Karatsev,Kiranpal Pannu,TRUE,59.30%,75.00%,81.80%,31.60%,64.50%,46.40%
+Marton Fucsovics,Denis Yevseyev,TRUE,59.30%,71.90%,72.70%,28.60%,47.40%,36.20%
+Elias Ymer,Dino Prizmic,TRUE,59.20%,68.90%,51.60%,39.20%,64.70%,49.40%
+Brandon Nakashima,Arthur Fils,TRUE,59.20%,89.70%,60.00%,21.60%,52.20%,33.30%
+Jurij Rodionov,Gregoire Barrere,TRUE,59.20%,70.70%,57.50%,22.40%,44.40%,30.90%
+Alibek Kachmazov,Corentin Moutet,TRUE,59.00%,69.40%,52.00%,36.40%,57.80%,47.20%
+Karen Khachanov,Sebastian Korda,TRUE,59.00%,83.30%,48.00%,32.50%,56.70%,42.90%
+Gregoire Barrere,Shintaro Mochizuki,TRUE,58.90%,69.60%,56.40%,34.40%,56.10%,44.90%
+Taro Daniel,Ben Shelton,FALSE,58.90%,71.40%,56.40%,26.70%,46.70%,33.30%
+Benjamin Bonzi,Alexander Shevchenko,FALSE,58.90%,77.30%,54.30%,23.00%,50.00%,33.30%
+Tommy Paul,Ugo Humbert,TRUE,58.90%,78.80%,60.90%,39.50%,57.10%,46.50%
+Andy Murray,Alex De Minaur,FALSE,58.90%,71.40%,45.50%,31.30%,56.30%,42.00%
+Lorenzo Musetti,Arthur Rinderknech,TRUE,58.80%,80.00%,66.70%,28.60%,60.00%,41.70%
+Nuno Borges,Dominik Koepfer,TRUE,58.80%,77.50%,60.70%,32.70%,50.00%,38.30%
+Tommy Paul,Daniel Altmaier,TRUE,58.80%,78.70%,48.50%,38.50%,61.50%,45.10%
+Tommy Paul,Miomir Kecmanovic,TRUE,58.70%,86.40%,61.30%,28.00%,44.40%,34.90%
+Mitchell Krueger,Pavel Kotov,TRUE,58.60%,79.40%,66.70%,32.40%,53.30%,38.50%
+Taylor Harry Fritz,Jordan Thompson,TRUE,58.60%,73.50%,66.70%,26.90%,52.20%,38.80%
+Sebastian Ofner,Vitaliy Sachko,TRUE,58.50%,75.00%,58.80%,24.00%,55.60%,35.10%
+Jordan Thompson,Kei Nishikori,FALSE,58.40%,80.80%,48.60%,24.60%,46.20%,30.80%
+Daniel Altmaier,Alexei Popyrin,FALSE,58.40%,69.70%,57.40%,22.70%,48.80%,33.00%
+Jack Draper,Lorenzo Musetti,TRUE,58.30%,88.60%,48.00%,36.20%,75.00%,49.30%
+Jannik Sinner,Holger Vitus Nodskov Rune,TRUE,58.30%,83.70%,60.00%,28.60%,59.00%,39.40%
