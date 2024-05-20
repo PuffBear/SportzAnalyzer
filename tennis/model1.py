@@ -11,7 +11,7 @@ from sklearn.metrics import accuracy_score, classification_report
 
 df = pd.read_csv("atp_matches_2023.csv")
 df = df.drop(columns=['player1_ht', 'player1_ioc', 'player1_age', 'player2_ht', 'player2_ioc', 'player2_age', 'score', 'best_of', 'round', 'minutes', 'p1_ace', 'p1_df', 'p2_ace', 'p2_df'])
-df = df.drop(columns=['surface', 'p1_svpt', 'p1_1stIn', 'p1_1stWon', 'p1_2ndWon', 'p2_1stIn', 'p2_svpt', 'p2_1stWon', 'p2_2ndWon', 'p1_bpSaved', 'p1_bpFaced', 'p2_bpSaved', 'p2_bpFaced'])
+df = df.drop(columns=['surface', 'p1_svpt', 'p1_1stIn', 'p1_1stWon', 'p1_2ndWon', 'p2_1stIn', 'p2_svpt', 'p2_1stWon', 'p2_2ndWon', 'p1_bpSaved', 'p1_bpFaced', 'p2_bpSaved', 'p2_bpFaced', 'p1_breakpoint_saved', 'p2_breakpoint_saved'])
 df.replace('#DIV/0!', pd.NA, inplace=True)
 df = df.dropna()
 
