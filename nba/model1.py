@@ -1,3 +1,5 @@
+# model accuracy is 1.0
+
 import pandas as pd
 pd.set_option('display.max_rows', None)
 from sklearn.model_selection import train_test_split

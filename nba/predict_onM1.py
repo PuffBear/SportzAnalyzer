@@ -10,10 +10,8 @@ data = []
 matches = [
     ('Boston Celtics', 'Indiana Pacers'), 
     ('Minnesota Timberwolves', 'Dallas Mavericks'),
-    ('Boston Celtics', 'Cleveland Cavaliers'), 
-    ('Indiana Pacers', 'New York Knicks'),
-    ('New Orleans Pelicans', 'Orlando Magic'),
-
+    ('Denver Nuggets', 'Dallas Mavericks'),
+    ('Indiana Pacers', 'Oklahoma City Thunder')
 ]
 
 # Ensure column names match exactly with those in 'player_df'
