@@ -1,17 +1,25 @@
 import pandas as pd
+from model1 import classifier
+from model1 import label_encoder
+from sklearn.preprocessing import StandardScaler
+from model1 import X_train
 
 # Load the sample data
-player_df = pd.read_csv('nba_playoff_team_data.csv')
+player_df = pd.read_csv('nba_regular_2324_team_data.csv')
 
 # Initialize the data for the new DataFrame
 data = []
 
 # Example matches
 matches = [
-    ('Boston Celtics', 'Indiana Pacers'), 
-    ('Minnesota Timberwolves', 'Dallas Mavericks'),
-    ('Denver Nuggets', 'Dallas Mavericks'),
-    ('Indiana Pacers', 'Oklahoma City Thunder')
+    ('Oklahoma City Thunder', 'New Orleans Pelicans'), 
+    ('LA Clippers', 'Dallas Mavericks'),
+    ('Minnesota Timberwolves', 'Phoenix Suns'),
+    ('Denver Nuggets', 'Los Angeles Lakers'),
+    ('Boston Celtics', 'Miami Heat'),
+    ('Cleveland Cavaliers', 'Orlando Magic'),
+    ('Milwaukee Bucks', 'Indiana Pacers'),
+    ('New York Knicks', 'Philadelphia 76ers')
 ]
 
 # Ensure column names match exactly with those in 'player_df'
@@ -102,11 +110,6 @@ df_new = pd.DataFrame(data, columns=[
 
 # Display the new DataFrame
 print(df_new)
-
-from model1 import classifier
-from model1 import label_encoder
-from sklearn.preprocessing import StandardScaler
-from model1 import X_train
 
 df_new['TEAM_1'] = label_encoder.fit_transform(df_new['TEAM_1'])
 df_new['OPPONENT'] = label_encoder.fit_transform(df_new['OPPONENT'])
