@@ -8,10 +8,6 @@ data = []
 
 # Example matches
 matches = [
-    ('Boston Celtics', 'Indiana Pacers'), 
-    ('Minnesota Timberwolves', 'Dallas Mavericks'),
-    ('Denver Nuggets', 'Dallas Mavericks'),
-    ('Indiana Pacers', 'Oklahoma City Thunder'),
     ('Boston Celtics', 'Indiana Pacers'),
     ('Minnesota Timberwolves', 'Dallas Mavericks')
 ]
