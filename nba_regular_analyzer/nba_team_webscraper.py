@@ -1,16 +1,92 @@
+import requests
 import pandas as pd
+from nba_matches_webscraper import classifier, label_encoder, X_train
+from sklearn.preprocessing import StandardScaler
 
-# Load the sample data
-player_df = pd.read_csv('nba_playoff_team_data.csv')
+# Define the URL
+url = "https://stats.nba.com/stats/leaguedashteamstats?Conference=&DateFrom=&DateTo=&Division=&GameScope=&GameSegment=&Height=&ISTRound=&LastNGames=0&LeagueID=00&Location=&MeasureType=Base&Month=0&OpponentTeamID=0&Outcome=&PORound=0&PaceAdjust=N&PerMode=PerGame&Period=0&PlayerExperience=&PlayerPosition=&PlusMinus=N&Rank=N&Season=2023-24&SeasonSegment=&SeasonType=Regular%20Season&ShotClockRange=&StarterBench=&TeamID=0&TwoWay=0&VsConference=&VsDivision="
+
+# Set headers to avoid being blocked
+headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+    "Referer": "https://www.nba.com/",
+    "Accept": "application/json, text/plain, */*"
+}
+
+# Make a GET request to fetch the raw HTML content
+response = requests.get(url, headers=headers)
+data = response.json()
+
+# Extract the headers and row set from the response
+headers = data['resultSets'][0]['headers']
+rows = data['resultSets'][0]['rowSet']
+
+df = pd.DataFrame(rows, columns=headers)
+
+'''
+['TEAM_ID', 'TEAM_NAME', 'GP', 'W', 'L', 'W_PCT', 'MIN', 'FGM', 'FGA',
+       'FG_PCT', 'FG3M', 'FG3A', 'FG3_PCT', 'FTM', 'FTA', 'FT_PCT', 'OREB',
+       'DREB', 'REB', 'AST', 'TOV', 'STL', 'BLK', 'BLKA', 'PF', 'PFD', 'PTS',
+       'PLUS_MINUS', 'GP_RANK', 'W_RANK', 'L_RANK', 'W_PCT_RANK', 'MIN_RANK',
+       'FGM_RANK', 'FGA_RANK', 'FG_PCT_RANK', 'FG3M_RANK', 'FG3A_RANK',
+       'FG3_PCT_RANK', 'FTM_RANK', 'FTA_RANK', 'FT_PCT_RANK', 'OREB_RANK',
+       'DREB_RANK', 'REB_RANK', 'AST_RANK', 'TOV_RANK', 'STL_RANK', 'BLK_RANK',
+       'BLKA_RANK', 'PF_RANK', 'PFD_RANK', 'PTS_RANK', 'PLUS_MINUS_RANK']
+'''
+
+df = df.drop(columns=['TEAM_ID', 'GP_RANK', 'W_RANK', 'L_RANK', 'W_PCT_RANK', 'MIN_RANK',
+       'FGM_RANK', 'FGA_RANK', 'FG_PCT_RANK', 'FG3M_RANK', 'FG3A_RANK',
+       'FG3_PCT_RANK', 'FTM_RANK', 'FTA_RANK', 'FT_PCT_RANK', 'OREB_RANK',
+       'DREB_RANK', 'REB_RANK', 'AST_RANK', 'TOV_RANK', 'STL_RANK', 'BLK_RANK',
+       'BLKA_RANK', 'PF_RANK', 'PFD_RANK', 'PTS_RANK', 'PLUS_MINUS_RANK', 'BLKA', 'PFD', ])
+
+# Define a dictionary for renaming columns
+rename_dict = {
+    'TEAM_NAME': 'TEAM',
+    'GAME_DATE': 'GAME DATE',
+    'MATCHUP': 'OPPONENT',
+    'WL': 'OUTCOME',
+    'MIN': 'MIN',
+    'PTS': 'PTS',
+    'FGM': 'FGM',
+    'FGA': 'FGA',
+    'FG_PCT': 'FG%',
+    'FG3M': '3PM',
+    'FG3A': '3PA',
+    'FG3_PCT': '3P%',
+    'FTM': 'FTM',
+    'FTA': 'FTA',
+    'FT_PCT': 'FT%',
+    'OREB': 'OREB',
+    'DREB': 'DREB',
+    'REB': 'REB',
+    'AST': 'AST',
+    'STL': 'STL',
+    'BLK': 'BLK',
+    'TOV': 'TOV',
+    'PF': 'PF',
+    'PLUS_MINUS': '+/-'
+}
+
+# Rename the columns
+df.rename(columns=rename_dict, inplace=True)
+
+player_df = df
+print(player_df)
 
 # Initialize the data for the new DataFrame
 data = []
 
 # Example matches
 matches = [
-    ('Dallas Mavericks', 'Boston Celtics'),
-    ('Minnesota Timberwolves', 'Boston Celtics'),
-    ('Dallas Mavericks', 'Minnesota Timberwolves')
+    ('Cleveland Cavaliers', 'Orlando Magic'),
+    ('Minnesota Timberwolves', 'Phoenix Suns'),
+    ('New York Knicks', 'Philadelphia 76ers'),
+    ('Denver Nuggets', 'Los Angeles Lakers'),
+    ('Boston Celtics', 'Miami Heat'),
+    ('LA Clippers', 'Dallas Mavericks'),
+    ('Milwaukee Bucks', 'Indiana Pacers'),
+    ('Oklahoma City Thunder', 'New Orleans Pelicans')
 ]
 
 # Ensure column names match exactly with those in 'player_df'
@@ -101,11 +177,6 @@ df_new = pd.DataFrame(data, columns=[
 
 # Display the new DataFrame
 print(df_new)
-
-from model1 import classifier
-from model1 import label_encoder
-from sklearn.preprocessing import StandardScaler
-from model1 import X_train
 
 df_new['TEAM_1'] = label_encoder.fit_transform(df_new['TEAM_1'])
 df_new['OPPONENT'] = label_encoder.fit_transform(df_new['OPPONENT'])
