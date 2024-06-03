@@ -8,9 +8,7 @@ data = []
 
 # Example matches
 matches = [
-    ('Dallas Mavericks', 'Boston Celtics'),
-    ('Minnesota Timberwolves', 'Boston Celtics'),
-    ('Dallas Mavericks', 'Minnesota Timberwolves')
+    ('Boston Celtics', 'Dallas Mavericks')
 ]
 
 # Ensure column names match exactly with those in 'player_df'

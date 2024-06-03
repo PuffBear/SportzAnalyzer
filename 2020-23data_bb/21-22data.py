@@ -1,13 +1,7 @@
-# a program to webscrape 2023-2024 data
-
 import requests
 import pandas as pd
-from sklearn.model_selection import train_test_split
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.preprocessing import StandardScaler, LabelEncoder
-from sklearn.metrics import accuracy_score, classification_report
 
-url = "https://stats.nba.com/stats/leaguegamelog?Counter=1000&DateFrom=&DateTo=&Direction=DESC&ISTRound=&LeagueID=00&PlayerOrTeam=T&Season=2023-24&SeasonType=Regular%20Season&Sorter=DATE"
+url = "https://stats.nba.com/stats/leaguegamelog?Counter=1000&DateFrom=&DateTo=&Direction=DESC&ISTRound=&LeagueID=00&PlayerOrTeam=T&Season=2021-22&SeasonType=Regular%20Season&Sorter=DATE"
 
 # Set headers to avoid being blocked
 headers = {
@@ -34,7 +28,6 @@ df = pd.DataFrame(rows, columns=headers)
 '''
 
 df = df.drop(columns=['SEASON_ID', 'TEAM_ID', 'VIDEO_AVAILABLE'])
-print(df.head())
 
 # Define a dictionary for renaming columns
 rename_dict = {
@@ -133,41 +126,4 @@ def transform_data(df):
 transformed_df = transform_data(df)
 transformed_df = transformed_df.drop(columns=['GAME DATE', 'MIN'])
 transformed_df = transformed_df.dropna()
-'''
-# Display the transformed DataFrame
-print("\nTransformed DataFrame:")
-print(transformed_df.head())
-print(transformed_df.columns)
-num_rows = transformed_df.shape[0]
-print(f"Number of rows in the DataFrame: {num_rows}")
-first_row_values = transformed_df.iloc[0]
-print("Values in the first row of the DataFrame:")
-print(first_row_values)
-'''
-
-label_encoder = LabelEncoder()
-transformed_df['TEAM_1'] = label_encoder.fit_transform(transformed_df['TEAM_1'])
-transformed_df['OPPONENT'] = label_encoder.fit_transform(transformed_df['OPPONENT'])
-transformed_df['OUTCOME'] = label_encoder.fit_transform(transformed_df['OUTCOME'])
-
-# Define features and target
-X = transformed_df.drop(columns=['OUTCOME'])
-y = transformed_df['OUTCOME']
-
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
-
-# Initialize and train the classifier
-classifier = RandomForestClassifier(n_estimators=100, random_state=42)
-classifier.fit(X_train, y_train)
-
-y_pred = classifier.predict(X_test)
-y_prob_pred = classifier.predict_proba(X_test)
-
-accuracy = accuracy_score(y_test, y_pred)
-print("Accuracy:", accuracy)
-
-y_pred_decoded = label_encoder.inverse_transform(y_pred)
-
-#print(X_test)
-print(y_prob_pred)
-print(y_pred_decoded)
+twentyone_to_twentytwo_data = transformed_df

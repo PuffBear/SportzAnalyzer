@@ -43,9 +43,10 @@ y_prob_pred = classifier.predict_proba(X_test)
 
 accuracy = accuracy_score(y_test, y_pred)
 print("Accuracy:", accuracy)
-
+'''
 y_pred_decoded = label_encoder.inverse_transform(y_pred)
 
 #print(X_test)
 print(y_prob_pred)
 print(y_pred_decoded)
+'''
