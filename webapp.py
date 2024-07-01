@@ -38,17 +38,25 @@ st.title("Common Oaks' Sports Analyzer")
 # Function to check if the user name and password are correct
 def check_password(username, password):
     # User credentials (never store plain text passwords in production)
-    return username == "admin" and password == "password"
+    return username == "veer" and password == "vjtwocents"
 
 def main_page():
     st.header("NBA Games")
     st.subheader("Choose the Teams that are playing: ")
     # Team selection dropdowns
-    team1 = st.selectbox('Select Team 1:', teams)
-    team2 = st.selectbox('Select Team 2:', teams)
+    col1, col2 = st.columns(2)
+    with col1:
+        team1 = st.selectbox('Select Team 1:', teams, key='team1')
+    with col2:
+        team2 = st.selectbox('Select Team 2:', teams, key='team2')
+
+    # Ensure teams are not the same
+    if team1 == team2:
+        st.warning("Please select two different teams.")
+        return
 
     # Button to save the match
-    if st.button('Save Match'):
+    if st.button('Analyze'):
         match = [(team1, team2)]
         if not all(col in player_df.columns for col in required_columns):
             missing_cols = [col for col in required_columns if col not in player_df.columns]
