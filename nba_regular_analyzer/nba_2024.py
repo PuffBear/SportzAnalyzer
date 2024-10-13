@@ -79,12 +79,8 @@ data = []
 
 # Example matches
 matches = [
-    ('Philadelphia 76ers','Boston Celtics'),
-    ('Boston Celtics','Philadelphia 76ers'),
-    ('Utah Jazz','San Antonio Spurs'),
-    ('San Antonio Spurs','Utah Jazz'),
-    ('Chicago Bulls','Memphis Grizzlies'),
-    ('Memphis Grizzlies','Chicago Bulls')
+    ('Denver Nuggets','Phoenix Suns'),
+    ('Phoenix Suns','Denver Nuggets')
 ]
 
 # Ensure column names match exactly with those in 'player_df'
